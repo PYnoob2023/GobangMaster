@@ -15,4 +15,4 @@ GobangMaster 是一个使用 Python 和 Tkinter 构建的简单五子棋游戏�
 
 ```bash
 python main.py
-SP：初学者练手之作，请勿喷
+PS：初学者练手之作，请勿喷
